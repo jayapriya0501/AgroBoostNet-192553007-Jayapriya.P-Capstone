@@ -129,11 +129,7 @@ Technical Paper: [Link](https://github.com/jayapriya0501/AgroBoostNet/blob/main/
    uv add -r requirements.txt
    ```
 
-3. Run the Jupyter notebook:
-   ```
-   jupyter notebook notebooks/AgroBoostNet_Implementation.ipynb
-   ```
-4. For Training the Model:
+3. For Training the Model:
    - Run the training script:
      ```
      uv run python agroboostnet.py
