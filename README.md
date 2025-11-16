@@ -114,13 +114,13 @@ AgroBoostNet demonstrates superior performance across all primary metrics:
 4. Technical paper with algorithm explanation
 5. Evaluation metrics and benchmarking results
 
-Technical Paper: [Link](https://github.com/yourusername/AgroBoostNet/blob/main/docs/AgroBoostNet_Technical_Paper.pdf)
+Technical Paper: [Link](https://github.com/jayapriya0501/AgroBoostNet/blob/main/technical_paper.md)
 
 ### To Run the Project
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/AgroBoostNet.git
+   git clone https://github.com/jayapriya0501/AgroBoostNet.git
    cd AgroBoostNet
    ```
 
